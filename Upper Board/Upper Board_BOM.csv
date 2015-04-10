@@ -1,0 +1,7 @@
+Qty-1	Description	Type	Mfg Name	Mfg Part Num	VID	Vendor Part Num	Cost	Part References
+1	Micro-Fit header, 4pos, RA, SMT, Press-Fit Retention, Tin Plating	Connector	Molex	43045-0406	NW	56H9461	2.42	X-352
+2	Header, Screw Terminal, 2-pos, 5mm	Connector	TE Connectivity	282836-2	DK	A98076-ND	0.92	X_0
+3	DIODE ZENER 3.8V 1W, SOD-123F	Zener Diode	Rohm Semiconductor	KDZTR3.6B	DK	KDZTR3.6BCT-ND 	0.56	D1, D2, D3
+1	TVS DIODE 30VWM 48.4VC SMB	Diode	Littelfuse	SMBJ30CA	DK	SMBJ30CALFCT-ND	0.423	D4
+1	Batt Contact w/ tab Negative	Connector	Keystone	5201	DK	5201K-ND 	0.26	B2
+2	Batt Contact w/ tab Positive	Connector	Keystone	5223	DK	5223K-ND 	0.17	B1, B3
